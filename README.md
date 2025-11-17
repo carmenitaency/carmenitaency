@@ -1,4 +1,6 @@
-## Heya! Ency here!
+<h1 align=center> 
+Heya! Ency here! :sunflower:
+</h1> 
 
 I'm currently learning here and there, mostly interested in game development and cyber security. I will be using this repository to keep track of my learning progress.
 
